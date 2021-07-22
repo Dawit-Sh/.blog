@@ -1,0 +1,2 @@
+# .blog
+html and markdown
